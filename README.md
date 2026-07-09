@@ -1,4 +1,4 @@
-# 🧠 Proyek UAS Kecerdasan Buatan
+#  💸 Proyek UAS Kecerdasan Buatan
 
 ## Analisis Sentimen Ulasan Aplikasi Wondr by BNI Menggunakan Algoritma Long Short-Term Memory (LSTM) dan Support Vector Machine (SVM)
 
